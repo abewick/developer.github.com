@@ -2,7 +2,7 @@
 title: Automating deployments to integrators
 ---
 
-# Automating deployments to integrators
+# Automating deployments to integrators and horses
 
 {:toc}
 
